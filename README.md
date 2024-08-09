@@ -1,8 +1,9 @@
 # Shitpost-O-LlaMa
 
 <p align="center">
-  <img src="https://i.ibb.co/MDHYq4s/Shitpost-O-logo.png" alt="Shitpost O'LlaMa logo">
+  <img src="https://i.ibb.co/59SqY8B/Shitpost-O-logo-1.png" alt="Shitpost O'LlaMa logo">
 </p>
+
 
 A sh*tposting copypasta generator script built using Python, Ollama, `langchain`, and the Unholy V2 Llama 3-based (uncensored) text generation model
 
