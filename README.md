@@ -33,6 +33,10 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 ## Frequently asked questions (FAQ)
 
+**Q:** My model doesn't build, or doesn't work?
+
+**A:** Run `chmod +rwx ./Modelfile` on your `Modelfile` files before your build. Problem solved 😎
+
 **Q:** Why build this script at all?
 
 **A:** I built this to be an extension of my work on `spamgpt` (from [Simple Spam Scripts](https://github.com/KiwiSingh/Simple-Spam-Scripts)), the idea being to create something that would run locally. I just haven't had the time (or the motivation) to go back and update `spamgpt` is all.
