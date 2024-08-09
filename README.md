@@ -44,7 +44,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** The AI exceeds the word limit sometimes?
 
-**A:** Yeah. Unsure why that happens. Prompt engineering will only take you so far. Though in my experience, it only really happens when your word limit is 100 words or less. So don't be afraid to get it to right you even BIGGER copypastas!
+**A:** Yeah. Unsure why that happens. Prompt engineering will only take you so far. Though in my experience, it only really happens when your word limit is 100 words or less. So don't be afraid to get it to write you even BIGGER copypastas!
 
 **Q:** Why build this script at all?
 
