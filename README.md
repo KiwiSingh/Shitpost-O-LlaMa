@@ -42,6 +42,10 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **A:** Run `chmod +rwx ./Modelfile` on your `Modelfile` files before your build. Problem solved 😎
 
+**Q:** The AI exceeds the word limit sometimes?
+
+**A:** Yeah. Unsure why that happens. Prompt engineering will only take you so far. Though in my experience, it only really happens when your word limit is 100 words or less. So don't be afraid to get it to right you even BIGGER copypastas!
+
 **Q:** Why build this script at all?
 
 **A:** I built this to be an extension of my work on `spamgpt` (from [Simple Spam Scripts](https://github.com/KiwiSingh/Simple-Spam-Scripts)), the idea being to create something that would run locally. I just haven't had the time (or the motivation) to go back and update `spamgpt` is all.
