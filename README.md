@@ -1,11 +1,15 @@
-# Shitpost-O-LlaMa
+# Shitpost O' Llama
 
 <p align="center">
   <img src="https://i.ibb.co/59SqY8B/Shitpost-O-logo-1.png" alt="Shitpost O'LlaMa logo">
 </p>
 
-
 A sh*tposting copypasta generator script built using Python, Ollama, `langchain`, and the Unholy V2 Llama 3-based (uncensored) text generation model
+
+## Requirements
+* Python 3.9+ (project made using Python 3.11.2)
+* Preexisting install of [Ollama](https://github.com/lloydchang/ollama-ollama) app
+* A functioning brain 😛
 
 ## Initial setup
 This setup process assumes you already have a local installation of the `Ollama` app. Now, follow the following steps:
