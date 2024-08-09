@@ -24,7 +24,7 @@ def get_user_input():
         lengthvar = input("Gimme the word length for your pasta: ")
         try:
             lengthvar = int(lengthvar)
-            if lengthvar < 0 or lengthvar == 0:
+            if lengthvar < 1:
                 raise ValueError("Word length must be a positive integer.")
             break  # Exit the loop if input is valid
         except ValueError as ve:
