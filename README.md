@@ -55,7 +55,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** Why `unholy-v2` specifically?
 
-**A:** I wanted a model with minimal to none guardrails, that could generate some extremely questionable, borderline smut, pastas, and the only other model I could find that could accomplish this in the way that I wanted it to, was `everythinglm`. However, even on my M1 MacBook Air with 16 gigs of RAM it would chug along very slowly, and was just annoying to work with in Python. Even for this model I had to prototype things first using `tinydolphin` before using `unholy-v2` outright.
+**A:** I wanted a model with minimal to no guardrails, that could generate some extremely questionable, borderline smut, pastas, and the only other model I could find that could accomplish this in the way that I wanted it to, was `everythinglm`. However, even on my M1 MacBook Air with 16 gigs of RAM it would chug along very slowly, and was just annoying to work with in Python. Even for this model I had to prototype things first using `tinydolphin` before using `unholy-v2` outright.
 
 **Q:** Will this run on my system?
 
