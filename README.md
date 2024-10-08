@@ -49,7 +49,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** Why build this script at all?
 
-**A:** I built this to be an extension of my work on `spamgpt` (from [Simple Spam Scripts](https://github.com/KiwiSingh/Simple-Spam-Scripts)), the idea being to create something that would run locally. I just haven't had the time (or the motivation) to go back and update `spamgpt` is all.
+**A:** I built this to be an extension of my work on `spamgpt`, the idea being to create something that would run locally. Since `spamgpt` is now defunct, I figured this would be the next best thing.
 
 **Q:** Is this script platform-agnostic?
 
@@ -61,7 +61,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** So `spamgpt` is abandoned?
 
-**A:** It will most likely be archived some time in late 2024 or early 2025. But I will try and bring it back in some fashion if enough people give a crap.
+**A:** Yes. The repo has been privated, until I figure out what - if anything - to do with it.
 
 **Q:** Why `unholy-v2` specifically?
 
