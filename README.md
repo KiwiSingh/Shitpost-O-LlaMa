@@ -12,7 +12,7 @@ A sh*tposting copypasta generator script built using Python, Ollama, `langchain`
 * Preexisting install of [Ollama](https://github.com/lloydchang/ollama-ollama) app
 * A functioning brain 😛
 
-## Initial setup
+## Initial setup (for both CLI and GUI versions)
 This setup process assumes you already have a local installation of the `Ollama` app. Now, follow the following steps:
 
 1. If you have your `$OLLAMA_MODELS` environment variable set to an external drive, disable launching `Ollama` on startup if you haven't already.
