@@ -63,7 +63,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** GUI when?
 
-**A:** Experimental GUI out now!
+**A:** Experimental GUI out now (macOS only for now)!
 
 **Q:** So `spamgpt` is abandoned?
 
