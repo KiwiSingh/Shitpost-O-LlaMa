@@ -33,7 +33,7 @@ depending on your platform and Python environment. You may also want to do this 
 
 6. Assuming you did everything right, the script should work as intended now. In case the script throws an error that `ollama` isn't running, be sure to run `ollama serve` and/or `ollama list`.
 
-## Options explained
+## CLI options explained
 
 When you get the prompt, `Do you want your pasta to be coherently (t)ame or creative and ever so slightly (u)nhinged?: `, selecting `t` (for tame) will result in the usage of the default `unholy-v2` model, whereas selecting `u` (for unhinged) will result in the usage of the experimental `unholy-v2-experimental` model which has a higher model temperature and will therefore be more unpredictable but potentially way more unhinged.
 
@@ -57,7 +57,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** GUI when?
 
-**A:** When I learn how to code one 😛
+**A:** ~~When I learn how to code one 😛~~ Experimental GUI out now!
 
 **Q:** So `spamgpt` is abandoned?
 
