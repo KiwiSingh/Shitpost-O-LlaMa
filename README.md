@@ -20,7 +20,7 @@ A sh*tposting copypasta generator script built using Python, Ollama, `langchain`
 ## Initial setup (both CLI and GUI)
 This setup process assumes you already have a local installation of the `Ollama` app. Now, follow the following steps:
 
-1. Clone this repo.
+1. Clone this repo (if using CLI; all other required files except model weights are provided with the GUI).
 2. If you have your `$OLLAMA_MODELS` environment variable set to an external drive, disable launching `Ollama` on startup if you haven't already.
 3. Download the `Modelfile` files from the `unholy-v2` and `unholy-v2-experimental` folders. You are going to need both of them.
 4. Place either of the `Modelfile` files into your `models` folder. Also, download `unholy-v2-13b.Q3_K_S.gguf` from [this page](https://huggingface.co/TheBloke/Unholy-v2-13B-GGUF/tree/main?not-for-all-audiences=true) and place it in your `models` folder.
