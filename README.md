@@ -12,7 +12,12 @@ A sh*tposting copypasta generator script built using Python, Ollama, `langchain`
 * Preexisting install of [Ollama](https://github.com/lloydchang/ollama-ollama) app
 * A functioning brain 😛
 
-## Initial setup
+## GUI Screenshot (macOS)
+<p align="center">
+  <img src="https://i.ibb.co/b66sGKb/Monosnap-Copypasta-Generator-2025-01-28-23-39-12.png" alt="Shitpost O' LlaMa GUI screenshot">
+</p>
+
+## Initial setup (both CLI and GUI)
 This setup process assumes you already have a local installation of the `Ollama` app. Now, follow the following steps:
 
 1. If you have your `$OLLAMA_MODELS` environment variable set to an external drive, disable launching `Ollama` on startup if you haven't already.
