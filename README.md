@@ -61,9 +61,9 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **A:** In theory, yes. While this script was written in macOS (specifically, macOS 15.1 Sequoia), the usage of `pyperclip` should make it platform-agnostic. If it doesn't work for you, create an Issue on GitHub, and I'll try and fix it I guess 🥲
 
-**Q:** GUI when?
+**Q:** Why is there such a huge size difference between the Windows and macOS builds?
 
-**A:** Experimental GUI out now (macOS only for now)!
+**A:** The macOS GUI is an alias that requires the main `spamollama.py` and its dependencies still. I had trouble getting py2app to create me a working self-contained version that didn't crash on launch. The Windows version is self-contained (but still requires Ollama and the model weights, not to mention untested).
 
 **Q:** So `spamgpt` is abandoned?
 
