@@ -63,7 +63,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** Why is there such a huge size difference between the Windows and macOS builds?
 
-**A:** The macOS GUI is an alias that requires the main `spamollama.py` and its dependencies still. I had trouble getting py2app to create me a working self-contained version that didn't crash on launch. The Windows version is self-contained (but still requires Ollama and the model weights, not to mention untested).
+**A:** The macOS GUI is an alias that requires the main `spamollama.py` and its dependencies still. I had trouble getting `py2app` to create me a working self-contained version that didn't crash on launch. The Windows version is self-contained (but still requires Ollama and the model weights, not to mention untested).
 
 **Q:** So `spamgpt` is abandoned?
 
