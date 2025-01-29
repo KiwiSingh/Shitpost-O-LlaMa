@@ -12,9 +12,9 @@ A sh*tposting copypasta generator script built using Python, Ollama, `langchain`
 * Preexisting install of [Ollama](https://github.com/lloydchang/ollama-ollama) app
 * A functioning brain 😛
 
-## GUI Screenshot (macOS)
+## GUI Screenshots
 <p align="center">
-  <img src="https://i.ibb.co/b66sGKb/Monosnap-Copypasta-Generator-2025-01-28-23-39-12.png" alt="Shitpost O' LlaMa GUI screenshot">
+  <img src="https://i.ibb.co/9kS7mnvH/Spam-OLlama-SS.png" alt="Shitpost O' LlaMa GUI screenshot">
 </p>
 
 ## Initial setup (both CLI and GUI)
@@ -37,7 +37,7 @@ user@localmachine homefolder % python3 -m pip install -r requirements.txt
 
 depending on your platform and Python environment. You may also want to do this in a virtual environment.
 
-6. Assuming you did everything right, the script should work as intended now. In case the script throws an error that `ollama` isn't running, be sure to run `ollama serve` and/or `ollama list`.
+6. Assuming you did everything right, the script should work as intended now. In case the script throws an error that `ollama` isn't running, be sure to run `ollama serve` and/or `ollama list`. If it still doesn't work, run the Ollama app manually.
 
 ## CLI options explained
 
@@ -59,7 +59,7 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** Is this script platform-agnostic?
 
-**A:** In theory, yes. While this script was written in macOS (specifically, macOS 15.1 Sequoia), the usage of `pyperclip` should make it platform-agnostic. If it doesn't work for you, create an Issue on GitHub, and I'll try and fix it I guess 🥲
+**A:** Yes.
 
 **Q:** Why is there such a huge size difference between the Windows and macOS builds?
 
@@ -75,4 +75,4 @@ When you get the prompt, `Do you want your pasta to be coherently (t)ame or crea
 
 **Q:** Will this run on my system?
 
-**A:** If you have 10 gigs or more of RAM, yeah. Though you are free to try your luck anyway.
+**A:** If you have ~~10~~ 12 gigs or more of RAM, yeah. Though you are free to try your luck anyway.
